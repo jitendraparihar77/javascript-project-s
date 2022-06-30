@@ -1,0 +1,17 @@
+body{
+background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);;
+}
+.col-md-6{
+    margin-top: 150px !important;
+    padding: 20px !important;
+    border:6px solid black;
+
+}
+h1{
+    font-weight:border !important;
+    margin: 20px !important;
+}
+button{
+    margin: 20px !important;
+    border:2px solid black !important;
+}

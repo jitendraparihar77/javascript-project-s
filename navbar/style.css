@@ -1,0 +1,16 @@
+.maindiv{
+    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+height: 100vh;
+width: 0;
+transition:0.5s;
+}
+
+ul{
+    text-align: center;
+    display: none;
+}
+li{
+    font-size:40px;
+    color: white;
+    list-style-type: none;
+}
